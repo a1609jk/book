@@ -6,11 +6,11 @@
 
 * [雅虎](https://business-ec.yahoo.co.jp/shopping/attention/)
 
-![&#x96C5;&#x864E;&#x5E97;&#x94FA;&#x6CE8;&#x518C;](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201028183509.png)
+![20201028183509](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201028183509.png)
 
 * [乐天](https://www.rakuten.co.jp/ec/open/attention/?l-id=PC_open_to_attention)
 
-![&#x4E50;&#x5929;&#x5E97;&#x94FA;&#x6CE8;&#x518C;](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201028165101.png)
+![&#x4E50;&#x5929;](https://raw.githubusercontent.com/a1609jk/Typora-Picgo/master/imgs/20201028165101.png)
 
 **2. 公司法人比个人更具优势**
 
