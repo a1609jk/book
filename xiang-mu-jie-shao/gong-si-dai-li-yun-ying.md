@@ -47,5 +47,3 @@
 | 费用类型 | 服务费/交通费 | 3000円 |
 | 费用类型 | 汇款手续费（郵貯） | 203円 |
 
-![&#x65E5;&#x672C;&#x516C;&#x53F8;&#x8BBE;&#x7ACB;&#x6D41;&#x7A0B;](../.gitbook/assets/hui-she-zhu-ce-liu-cheng-.png)
-
